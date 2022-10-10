@@ -1,0 +1,16 @@
+
+> 3 diff ways of starting a Spring Boot App
+- Spring Initializr
+- Spring Boot CLI
+- STS IDE
+
+> configuration(to any of the above)
+
+for more keys and notes on application.properties, 
+refer Appendix A. common applications properties
+
+> Connecting to database
+JPA(Java Persistence API):
+    Helps us do ORM - Object Relational Mapping 
+    ORM helps convert out entities(classes and obects) into Tables/sql database
+

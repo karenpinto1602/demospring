@@ -1,0 +1,5 @@
+GET  /topics   Get all topics
+GET  /topics/id   Gets the topics
+POST  /topic   Create new topic
+PUT   /topic/id  Updates the topic
+DELETE  /topics/id  Deletes the topic
